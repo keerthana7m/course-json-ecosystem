@@ -68,5 +68,15 @@
     "difficulty": "intermediate",
     "module_number": 7,
     "certification": "paid"
+  },
+   {
+    "id": 8,
+    "platform": "cyber skill boost",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": "https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "intermediate",
+    "module_number": 8,
+    "certification": "paid"
   }
 ]
